@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         T411 - Shoutbox notifications
 // @version      1.0
-// @namespace    https://www.t411.ch
+// @namespace    https://www.t411.li
 // @description  Affiche une notification de bureau lors de la réception d'un message
 // @author       M1st3rN0b0d7
 // @match        http://www.t411.ch/chati/*
 // @match        https://www.t411.ch/chati/*
+// @match        http://www.t411.li/chati/*
+// @match        https://www.t411.li/chati/*
 // @grant        none
 // ==/UserScript==
 
